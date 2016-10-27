@@ -1,0 +1,23 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "description": "Learn to write Unit Tests with Mocha Chai",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Unit",
+    "Testing"
+  ],
+  "author": "Mona Rin",
+  "license": "MIT",
+  "devDependencies": {
+    "nock": "^9.0.0",
+    "rewire": "^2.5.2",
+    "sinon": "^1.17.6"
+  }
+}
