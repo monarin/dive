@@ -1,0 +1,40 @@
+{
+  "rooms": [{
+    "title" : "Cluster Room",
+    "name": "Room for 2-4",
+    "shortname" : "Cluster_Room",
+    "summary" : "The cluster rooms are situated in the main part of the resort featuring 10 clusters (20 rooms in total). One room can accommodate 2 people (max. 4 with extra charge). Private bath room. One cluster house has two rooms. Price: 1,500 - 2,000 Baht per room per night. ",
+    "description": "We have 10 rooms in total.",
+    "artwork": ["cluster01.jpg","cluster02.jpg","cluster05.jpg","room2p01.jpg","room2p02.jpg","room3p01.jpg","room3p02.jpg","room3p03.jpg","room4p01.jpg","room4p02.jpg"]
+  },{
+    "title" : "Tree House",
+    "name": "Room for 2",
+    "shortname" : "Tree_House",
+    "summary": "Two tree houses are available for rent in the resort. You can choose one close to the swimming pool or another at the far end of the resort for privacy. A cozy tree house for two people. Private bath room with shower. Price: 1,800 Baht per room per night.",
+    "description": "2 Tree Houses available",
+    "artwork" : ["treehouse_01.jpg","treehouse_02.jpg"]
+  },{
+    "title" : "Single House",
+    "name": "Room for a big party",
+    "shortname" : "Single_House",
+    "summary": "Entire house for your group. 2-3 Bedrooms with showers, living room, kitchen, and large balcony.",
+    "description": "Many single houses available in our resort.",
+    "artwork" : ["loft2_front.jpg","loft2_living.jpg","loft2_space01.jpg","loft2_stair.jpg","loft2_bed01.jpg","loft2_bed02.jpg","loft2_floor2_01.jpg","loft2_floor2_02.jpg"]
+  }],
+
+  "social" : [{
+    "shortname" : "facebook",
+    "img" : "/images/socialmedia/facebook.png",
+    "url" : "https://www.facebook.com/baan.munta.7"
+  }],
+
+  "meeting" : {
+    "date": "December 10 - 11, 2016",
+    "time": "6-2am",
+    "where": {
+      "name": "Big Mountain Music Festival",
+      "img": "/images/misc/khaoyai_music.jpg",
+      "address": "Khao Yai National Park Entrance"
+    }
+  }
+}

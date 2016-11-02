@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+	<head>
+		<title>User Registration</title>
+		<meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, user-scalable=no">
+	  <link href='https://fonts.googleapis.com/css?family=Lato:400,100,700,900' rel='stylesheet' type='text/css'>
+	  <link rel="stylesheet" href="css/style.css">
+
+	  <script src="js/lib/angular/angular.min.js"></script>
+	  <script src="js/lib/angular/angular-route.min.js"></script>
+	  <script src="js/lib/angular/angular-animate.min.js"></script>
+
+
+		<script src="https://www.gstatic.com/firebasejs/3.5.3/firebase.js"></script>
+		<script>
+		  // Initialize Firebase
+		  var config = {
+		    apiKey: "AIzaSyA9S7s0IDjax7F-LSZ-5ddoQcrMahLHjks",
+		    authDomain: "baanmunta-608e8.firebaseapp.com",
+		    databaseURL: "https://baanmunta-608e8.firebaseio.com",
+		    storageBucket: "baanmunta-608e8.appspot.com",
+		    messagingSenderId: "496182991330"
+		  };
+		  firebase.initializeApp(config);
+		</script>
+		<script src="https://cdn.firebase.com/libs/angularfire/2.1.0/angularfire.min.js"></script>
+
+	  <script src="js/app.js"></script>
+	  <script src="js/controllers/registration.js"></script>
+	  <script src="js/controllers/success.js"></script>
+	</head>
+	<body>
+		<header>
+			<nav class="cf" ng-include="'views/nav.html'"></nav>
+		</header>
+		<div class="page" ng-view>
+			<main class="cf"></main>
+		</div>
+</html>

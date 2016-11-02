@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cluster Room",
+    "shortname": "Cluster_Room",
+    "reknown": "Cluster room for 2-4 people",
+    "bio": "We have 10 clusters (20 bedrooms in tota). Each room is for 2-4 people."
+  },
+  {
+    "name": "Single House",
+    "shortname": "Single_House",
+    "reknown": "Entire house with up to 3 bedrooms",
+    "bio": "We have many single houses around the area of the resort."
+  },
+  {
+    "name": "Tree House",
+    "shortname": "Tree_House",
+    "reknown": "Tree house for 2-3 people",
+    "bio": "We have two tree houses in the resort. Each has a private shower room with toilette."
+  }
+]
