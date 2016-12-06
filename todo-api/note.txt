@@ -1,0 +1,5 @@
+$ cd todo-api && npm install
+
+run the app:
+$ DEBUG=todo-api:* npm start
+

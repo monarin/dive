@@ -1,7 +1,6 @@
-angular.module('myApp', [
-	'ngRoute',
-	'todoControllers'
-	])
+angular.module('app', [
+  'ngRoute',
+  'todoControllers'])
     //---------------
     // Services
     //---------------

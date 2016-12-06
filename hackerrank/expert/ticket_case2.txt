@@ -1,0 +1,39 @@
+30 3 8
+dest0 40
+dest1 62
+dest2 92
+dest3 50
+dest4 99
+dest5 61
+dest6 29
+dest7 24
+dest1
+dest0
+dest4
+dest5
+dest6
+dest0
+dest6
+dest5
+dest3
+dest5
+dest4
+dest0
+dest4
+dest6
+dest0
+dest5
+dest1
+dest3
+dest2
+dest6
+dest3
+dest0
+dest7
+dest4
+dest4
+dest2
+dest1
+dest4
+dest7
+dest0
